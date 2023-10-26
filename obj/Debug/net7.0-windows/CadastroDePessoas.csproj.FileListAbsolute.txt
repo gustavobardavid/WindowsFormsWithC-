@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\bin\Debug\net7.0-windows\CadastroDePessoas.exe
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\bin\Debug\net7.0-windows\CadastroDePessoas.deps.json
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\bin\Debug\net7.0-windows\CadastroDePessoas.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\bin\Debug\net7.0-windows\CadastroDePessoas.dll
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\bin\Debug\net7.0-windows\CadastroDePessoas.pdb
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\CadastroDePessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\CadastroDePessoas.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\CadastroDePessoas.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\CadastroDePessoas.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\CadastroDePessoas.dll
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\refint\CadastroDePessoas.dll
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\CadastroDePessoas.pdb
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\CadastroDePessoas.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Gustavo\ProjetoWindowsForms\CadastroDePessoas\obj\Debug\net7.0-windows\ref\CadastroDePessoas.dll
